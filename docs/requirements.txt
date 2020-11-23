@@ -1,0 +1,5 @@
+django
+djangorestframework
+pygments  # 代码高亮插件
+coreapi
+pillow
